@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(106, 189, 182);
+    margin: 0px;
+}
+
+.contenedor{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 450px;
+    border-radius: 20px;
+}
+
+.cero{
+    border-radius: 5px;
+    text-align: center;
+    width: 80px;
+    height: 23px;
+    position: absolute;
+    top: 60px;
+    left: 390px;
+    border: solid 1px whitesmoke;
+}
+
+#uno{
+    border:10px black;
+    margin: 5px;
+    height: 80px ;
+    border-radius: 10px;
+    display: flex;
+    border: solid 1px whitesmoke;
+}
+.rosa{
+    background-color: pink;
+    width: 12px;
+    border-radius: 10px;
+}
+
+h2{
+    line-height: 10px;
+    font-size: 20px;
+}
+
+span{
+    font-size: 15px;
+}
+
+.rosa2{
+    margin: 6px;
+    padding: 3px;
+}
+
+
+#dos{
+    margin: 5px;
+    height: 80px;
+    border-radius: 10px;
+    display: flex;
+    border: solid 1px whitesmoke;
+}
+
+.violeta{
+    background-color: rgb(175, 95, 249);
+    width: 12px;
+    border-radius: 10px;
+}
+
+.violeta2{
+    margin: 6px;
+    padding: 3px;
+}
+
+#tres{
+    margin: 5px;
+    height: 80px;
+    border-radius: 10px;
+    display: flex;
+    border: solid 1px whitesmoke;
+}
+
+.naranja{
+    background-color: rgb(253, 204, 113);
+    width: 12px;
+    border-radius: 10px;
+}
+
+.naranja2{
+    margin: 6px;
+    padding: 3px;
+}
